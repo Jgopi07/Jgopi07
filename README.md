@@ -34,8 +34,7 @@ https://varmax-ai.onrender.com/
 ---
 
 ## ✨ Features
-
-✅ AI Resume Analyzer  
+ 
 ✅ Neural Security Matrix  
 ✅ AI Productivity Hub  
 ✅ Futuristic AI Terminal  
