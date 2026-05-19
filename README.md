@@ -59,6 +59,29 @@ https://varmax-ai.onrender.com/
 
 # 💼 Projects
 
+## 🌌 Gopi Aether OS — Futuristic AI Operating System
+
+🔗 Live Demo
+https://gopi-aether-os.gopijangili123.workers.dev/
+
+🔗 GitHub Repository
+https://github.com/Jgopi07/gopi-aether-os
+
+### Highlights
+
+* Futuristic operating system inspired UI
+* AI-powered terminal experience
+* Modern SSR architecture
+* Interactive system applications
+* Cyberpunk-inspired visual design
+* Cloudflare Workers deployment
+* Advanced routing architecture
+* Responsive cross-device experience
+
+### Tech Stack
+
+React.js • TypeScript • Vite • TanStack Router • Tailwind CSS • Cloudflare Workers • Wrangler
+
 ## 🏠 Estatica.AI — Real Estate Price Predictor
 
 🔗 https://jgopi07.github.io/-real-estate-ai/
