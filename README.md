@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gopi-jangili-3123302bb/">
+<a href="[https://www.linkedin.com/in/gopi-jangili-3123302bb/](https://www.linkedin.com/in/gopi-varma-3123302bb/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
