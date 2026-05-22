@@ -8,24 +8,12 @@
 
 <br/>
 
-<a href="https://eternal-hearts-infinity.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Project-Eternal_Hearts-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://varma-x-ai.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/AI_Project-VarmaX_AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Jgopi07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gopi-varma-3123302bb/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gopijangili123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gopi-varma-3123302bb/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Gopi_Varma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
