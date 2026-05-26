@@ -35,6 +35,45 @@
 
 ---
 
+# 🌠 FutureBlink
+
+### Cinematic Creator Support Platform
+
+🔗 Live Demo
+[https://futureblink.gopijangili123.workers.dev/](https://futureblink.gopijangili123.workers.dev/)
+
+### ✨ Features
+
+* Creator discovery ecosystem
+* Emotional cinematic UI/UX
+* Manual creator approval system
+* Multi-platform creator support
+* Featured creator spotlight system
+* Community-driven support missions
+* Premium dark futuristic interface
+* Mobile responsive experience
+* Cloudflare Workers deployment
+* Real creator visibility platform
+
+### 🛠 Tech Stack
+
+React.js • TanStack Start • TypeScript • Tailwind CSS • Cloudflare Workers • MongoDB • Cloudinary
+
+### 🌌 About Project
+
+FutureBlink is a cinematic creator-support platform built to help underrated and hardworking content creators gain real visibility through emotional community-driven support.
+
+Unlike fake engagement platforms, FutureBlink focuses on:
+
+* Real creator discovery
+* Genuine community support
+* Emotional storytelling
+* Premium cinematic experiences
+* Trust-driven creator ecosystems
+
+> “Support creators before the world discovers them.”
+
+
 # 💖 Eternal Hearts Infinity
 
 ### Cinematic Romantic Visual Novel Experience
