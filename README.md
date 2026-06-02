@@ -154,7 +154,7 @@ React.js • TypeScript • Vite • Tailwind CSS • Cloudflare Workers
 ### AI-Powered Real Estate Prediction Platform
 
 🔗 Live Demo  
-https://jgopi07.github.io/-real-estate-ai/
+https://real-estate-ai-flax-nine.vercel.app/
 
 ### ✨ Features
 
